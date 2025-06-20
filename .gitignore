@@ -1,0 +1,15 @@
+# renv: ignora bibliotecas e caches locais
+renv/library/
+renv/staging/
+
+# arquivos temporários do R
+*.RData
+*.Rhistory
+*.Rproj.user/
+
+# arquivos temporários do sistema
+Thumbs.db
+ehthumbs.db
+desktop.ini
+*.log
+.Rproj.user
